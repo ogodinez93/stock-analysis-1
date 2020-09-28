@@ -10,6 +10,9 @@
 
 The stock performance results for either method is identical. The time factor for processing the results is clearly improved via the array method. It shows an improvement of 60% faster results.
 
+![alt text](resources/VBA_Challenge_2018_original.png)
+![alt text](resources/VBA_Challenge_2018.png)
+
 ## Summary
 
 ### Advantages And Disadvantages Of Refactoring
