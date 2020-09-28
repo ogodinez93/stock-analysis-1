@@ -2,9 +2,13 @@
 
 ## Overview of Project: An Analysis of Green Energy Stock Investment  
 
-### Purpose: Perform an analysis using Visual Basic Application tool to make calculation not just for DAQO but all stocks.
+### Purpose
+
+#### The analysis provides information on the profitability of certain green energy stocks on a yearly basis.
 
 ## Results
+
+The stock performance results for either method is identical. The time factor for processing the results is clearly improved via the array method. It shows an improvement of 60% faster results.
 
 ## Summary
 
